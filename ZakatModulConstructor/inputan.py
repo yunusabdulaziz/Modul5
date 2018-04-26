@@ -5,7 +5,7 @@ class masukan(object):
     
 
     def __init__(self):
-        print("")
+        print("Data Baru Telah Dibuat")
        
     def inputnama(self):
         a = input    ('Masukan Nama                 : ')
